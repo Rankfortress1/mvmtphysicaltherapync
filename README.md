@@ -1,4 +1,3 @@
-
 <head> <meta http-equiv="Content-type" content="text/html;charset=UTF-8"></head>
 <!DOCTYPE html>
 <html lang="en">
@@ -317,7 +316,8 @@ img {
                  <div class="hero-text">
                         <h1>PERFORM  PAIN-FREE.</h1>
                  </div>
-            </section>
+                </div>         
+        </section>
             <!--Content-->
             <section class="head">
                 <h2>The Shoulder Joint</h2>
@@ -333,7 +333,6 @@ img {
                 <p>The scapula, or shoulder blade, plays a crucial role in shoulder movements and overall shoulder health. Scapular retraction, which involves squeezing the shoulder blades together, is necessary for maintaining proper posture and for performing everyday movements such as carrying a bag. Scapular protraction, which involves pushing the shoulder blades apart, is necessary for reaching forward and for performing movements such as pushing or pulling.</p>
                 <p>In conclusion, the shoulder joint is essential for performing a wide range of functional everyday movements. Shoulder flexion, abduction, internal and external rotation, and scapular movements are all important for completing daily tasks. Understanding these movements and their requirements can help us appreciate the importance of shoulder health and the impact of shoulder injuries. Maintaining good shoulder health through proper exercise, posture, and lifestyle habits can help us maintain our ability to perform everyday activities.</p>
             </section>
-
             <!--Embeds-->
             <section>
 
@@ -363,6 +362,5 @@ img {
             </section>
         </div>
     </div>
-    
 </body>
 </html>
